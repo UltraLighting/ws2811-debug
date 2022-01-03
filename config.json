@@ -1,0 +1,23 @@
+{
+  "controller": {
+    "neopixel": {
+      "options": {
+        "leds": 2,
+        "stripType": "grb",
+        "dma": 10,
+        "gpio": 18,
+        "brightness": 255
+      },
+      "dot2Color": {
+        "red": 245,
+        "green": 189,
+        "blue": 7
+      },
+      "intensity": {
+        "buttonOff": 0.2,
+        "buttonOn": 1
+      },
+      "isRunMultipier": 0.2
+    }
+  }
+}

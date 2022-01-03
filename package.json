@@ -1,0 +1,29 @@
+{
+  "name": "ws2811-debug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --experimental-json-modules --experimental-specifier-resolution=node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UltraLighting/ws2811-debug.git"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "UltraLighting",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UltraLighting/ws2811-debug/issues"
+  },
+  "homepage": "https://github.com/UltraLighting/ws2811-debug#readme",
+  "dependencies": {
+    "rpi-ws281x": "github:UltraLighting/rpi-ws281x"
+  },
+  "devDependencies": {
+    "eslint": "^8.6.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4"
+  }
+}
