@@ -5,7 +5,7 @@
         "leds": 2,
         "stripType": "grb",
         "dma": 10,
-        "gpio": 16,
+        "gpio": 18,
         "brightness": 255
       },
       "dot2Color": {
